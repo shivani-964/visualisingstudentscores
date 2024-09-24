@@ -39,7 +39,7 @@ This project is a Streamlit-based web application designed to help students anal
 **📅 Upcoming Exam Schedules:**
        A quick view of upcoming exams for your subjects, helping you stay prepared.
 
-**Emotion Feedback:**
+**😊 Emotion Feedback:**
        Express how you feel about your component-wise marks, whether you’re happy, neutral, or unhappy.
 
 ## Tech Stack
