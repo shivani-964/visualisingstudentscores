@@ -15,15 +15,15 @@ This project is a Streamlit-based web application designed to help students anal
 
         Choose from multiple types of visualizations:
         
-            **~ Histograms**
+            **Histograms**
             
-            **~ Line Graphs**
+            **Line Graphs**
             
-            **~ Scatter Plots**
+            **Scatter Plots**
             
-            **~ Heatmaps**
+            **Heatmaps**
             
-            **~ Pie Charts**
+            **Pie Charts**
             
         These visualizations give you a clear breakdown of your current and required marks.
 
