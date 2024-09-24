@@ -117,6 +117,10 @@ Pie charts give a breakdown of marks distribution per subject.
 ![Screenshot 2024-09-24 121928](https://github.com/user-attachments/assets/28712b66-7bfa-4dde-a2a7-845773a8621e)
 ![Screenshot 2024-09-24 121937](https://github.com/user-attachments/assets/e7b3202c-ccee-4c5d-8c80-6fb8f0ba3b65)
 
+## Deployed application (WEBSITE LINK)
+
+You can view the live application here: [Student Score Analysis and Prediction Tool] https://shivani-964-visualisingstudentscores-studentscores-lsnlrd.streamlit.app/
+
 ## Contributions
 
 Feel free to contribute to this project by submitting issues, feature requests, or pull requests.
