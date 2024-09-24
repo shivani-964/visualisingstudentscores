@@ -33,14 +33,14 @@ This project is a Streamlit-based web application designed to help students anal
 **Emotion Feedback:**
        Express how you feel about your component-wise marks, whether you’re happy, neutral, or unhappy.
 
-**Tech Stack**
-      Frontend: Streamlit
-      Backend: Python
-      Data Handling: Pandas, NumPy
-      Visualization: Matplotlib, Seaborn
-      PDF Generation: FPDF
+## Tech Stack
+      **Frontend:** Streamlit
+      **Backend:** Python
+      **Data Handling:** Pandas, NumPy
+      **Visualization:** Matplotlib, Seaborn
+      *PDF Generation:** FPDF
 
-**Installation**
+## Installation
 To set up this project locally, follow these steps:
 **1: Clone the repository:** 
       git clone https://github.com/your-username/studentscores.git
@@ -56,22 +56,22 @@ To set up this project locally, follow these steps:
 **5: Open the app in your browser:** 
       Streamlit will automatically open a browser window showing the app. If not, you can access it by navigating to:
       http://localhost:8501/
-**Usage**
+      
+## Usage
 **1: Enter Your Marks:** Input your marks in each subject for different components (Midterms, EndSem, Others).
 **2: Set Target SGPA:** Adjust the slider to set your target SGPA.
 **3: Analyze Results:** View the required marks, check the feasibility, and visualize your performance.
 **4: Download Gradesheet:** Generate and download a PDF gradesheet with the current and required marks.
 
-**Visualizations**
+## Visualizations
 Histograms and heatmaps provide an overview of your scores.
 Line graphs and scatter plots show how your scores are distributed across various components.
 Pie charts give a breakdown of marks distribution per subject.
 
-**Example Screenshots**
+## Example Screenshots
 
-**Contributions**
+## Contributions
 Feel free to contribute to this project by submitting issues, feature requests, or pull requests.
-
 **Steps for Contribution:**
 1: Fork the repository.
 2: Create a new branch (git checkout -b feature-name).
@@ -80,9 +80,9 @@ Feel free to contribute to this project by submitting issues, feature requests, 
 5: Push to the branch (git push origin feature-name).
 6: Open a pull request.
 
-**License**
+## License
 This project is licensed under the MIT License 
 See the LICENSE file for details.
 
-**Contact**
+## Contact
 If you have any questions or feedback, feel free to reach out!
