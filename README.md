@@ -109,6 +109,13 @@ Line graphs and scatter plots show how your scores are distributed across variou
 Pie charts give a breakdown of marks distribution per subject.
 
 ## Example Screenshots
+![Screenshot 2024-09-24 121626](https://github.com/user-attachments/assets/60d175df-efda-4939-982f-a527ed8922cf)
+![Screenshot 2024-09-24 121651](https://github.com/user-attachments/assets/4e20d34b-e7a7-46c8-a4eb-56fa057a8594)
+![Screenshot 2024-09-24 121906](https://github.com/user-attachments/assets/e5f94258-68ec-43ee-b235-ea1733ec98c0)
+![Screenshot 2024-09-24 121707](https://github.com/user-attachments/assets/9d4b0b4e-da99-43dd-8d66-543dcd96fcae)
+![Screenshot 2024-09-24 121917](https://github.com/user-attachments/assets/8f248004-45f5-4341-857e-843c1277a379)
+![Screenshot 2024-09-24 121928](https://github.com/user-attachments/assets/28712b66-7bfa-4dde-a2a7-845773a8621e)
+![Screenshot 2024-09-24 121937](https://github.com/user-attachments/assets/e7b3202c-ccee-4c5d-8c80-6fb8f0ba3b65)
 
 ## Contributions
 
