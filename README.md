@@ -14,7 +14,7 @@ This project is a Streamlit-based web application designed to help students anal
 **📈 Visualizations:**
 
         Choose from multiple types of visualizations:
-        
+
             **Histograms**
             
             **Line Graphs**
@@ -78,15 +78,27 @@ To set up this project locally, follow these steps:
       Streamlit will automatically open a browser window showing the app. If not, you can access it by navigating to:
       http://localhost:8501/
       
-## Usage
+## How to Use?
 
-**1: Enter Your Marks:** Input your marks in each subject for different components (Midterms, EndSem, Others).
+**1: Welcome Screen:** The home screen welcomes you to the Student Score Analysis and Prediction Tool. Provides a brief overview of the tool.
 
-**2: Set Target SGPA:** Adjust the slider to set your target SGPA.
+**2: Enter Your Marks:** Use the sidebar to input your current marks for each subject and component (e.g., M1, M2, EndSem, Others). Select completed exams for each subject from the dropdown menus.
 
-**3: Analyze Results:** View the required marks, check the feasibility, and visualize your performance.
+**3: Set Target SGPA:** Use the slider in the sidebar to set your target SGPA.
 
-**4: Download Gradesheet:** Generate and download a PDF gradesheet with the current and required marks.
+**4: View Required Marks:** The main screen displays the required marks for each subject and component to achieve your target SGPA. Shows whether achieving your target SGPA is feasible based on your current marks.
+
+**5: Visualizations:** Select the desired visualization type (Histogram, Heatmap, Line Graph, Scatter Plot, Pie Chart) from the dropdown menu. The corresponding chart is displayed for a detailed analysis.
+
+**6: Overall Analysis:** Provides an overall analysis of your current and required marks. Displays subject-wise score breakdown.
+
+**7: Upcoming Schedules:** Lists the upcoming exams and assessments for each subject.
+
+**8: Faculty Comments:** Get helpful comments from faculty members for each subject. Select a subject from the dropdown menu and click the button to display comments.
+
+**9: Motivational Quotes:** Displays random motivational quotes to keep you inspired.
+
+**10: Download Gradesheet:** Click the "Download PDF" button to download your gradesheet as a PDF.
 
 ## Visualizations
 
